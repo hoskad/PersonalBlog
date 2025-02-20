@@ -7,7 +7,7 @@ meta:
 
 lead:
   enabled: true
-  heading: "Hi, I'm Adrian Hoskins, an Software Engineer, and aspiring AI Engineer"
+  heading: "Hi, I'm Adrian Hoskins, an Software Engineer, and aspiring AI Engineer."
   description: "Currently building <a href='https://www.pawsabroad.ai'>Paws Abroad</a>. This site serves as a place for me to learn in public, where I publish book notes, long-form articles and any insights picked up along the way."
   show_social_media_icons: true
   avatar:
