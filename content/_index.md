@@ -7,7 +7,7 @@ meta:
 
 lead:
   enabled: true
-  heading: "Hi, I'm Adrian Hoskins"
+  heading: "Hi, I'm Adrian Hoskins, a Software Engineer who is transitioning to the field of AI Engineering"
   description: "Welcome to my personal blog where I share my thoughts and experiences in software development and technology."
   show_social_media_icons: true
   avatar:
