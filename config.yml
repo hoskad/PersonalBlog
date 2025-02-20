@@ -33,21 +33,21 @@ params:
     hero_gradient_2: "#5A6427" # Slightly lighter military green
     
     # dark
-    base_bg_dark: '#0b0b0b'
-    base_bg_2_dark: '#212123'
-    base_bg_3_dark: '#7e7e82'
-    base_text_dark: '#ffffff'
-    base_text_2_dark: '#bfc1c2'
-    base_text_3_dark: '#a8a4a4'
-    primary_bg_dark: '#46e385'
-    primary_bg_2_dark: '#55f884'
-    primary_bg_3_dark: '#46e385'
-    primary_text_dark: '#114c29'
-    primary_text_2_dark: '#f9f8ef'
-    logo_text_dark: '#ffffff'
-    header_text_dark: '#ffffff'
-    hero_gradient_dark: "#46e385"
-    hero_gradient_2_dark: "#46e385"
+    base_bg_dark: '#2A2F12'      # Very dark military green
+    base_bg_2_dark: '#3B4219'    # Slightly lighter dark military green
+    base_bg_3_dark: '#4B5320'    # Military green
+    base_text_dark: '#ffffff'    # White text for contrast
+    base_text_2_dark: '#f5f5f5'  # Slightly off-white for secondary text
+    base_text_3_dark: '#e0e0e0'  # Light gray for tertiary text
+    primary_bg_dark: '#4B5320'   # Military green for primary elements
+    primary_bg_2_dark: '#5A6427' # Slightly lighter military green
+    primary_bg_3_dark: '#4B5320' # Military green
+    primary_text_dark: '#ffffff' # White text for contrast
+    primary_text_2_dark: '#f5f5f5' # Slightly off-white
+    logo_text_dark: '#ffffff'    # White text for logo
+    header_text_dark: '#ffffff'  # White text for header
+    hero_gradient_dark: "#4B5320"   # Military green
+    hero_gradient_2_dark: "#5A6427" # Slightly lighter military green
   
   fonts:
     use_google_fonts: false
