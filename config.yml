@@ -16,13 +16,13 @@ defaultContentLanguageInSubdir: false
 params:
   colors:
   # light
-    base_bg: '#ffffff'
-    base_bg_2: '#fcfcfc'
-    base_bg_3: '#f2f2f2'
-    base_text: '#2f2e2a'
-    base_text_2: '#535247'
-    base_text_3: '#848484'
-    primary_bg: '#46e385'
+    base_bg: '#E8EAD7'      # Light olive background
+    base_bg_2: '#E2E4D1'    # Slightly darker light olive
+    base_bg_3: '#DDE0CC'    # Even slightly darker light olive
+    base_text: '#2f2e2a'    # Keep original dark text
+    base_text_2: '#535247'  # Keep original secondary text
+    base_text_3: '#848484'  # Keep original tertiary text
+    primary_bg: '#46e385'   # Keep original primary colors
     primary_bg_2: '#55f884'
     primary_bg_3: '#46e385'
     primary_text: '#114c29'
