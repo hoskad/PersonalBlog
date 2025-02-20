@@ -11,7 +11,7 @@ lead:
   description: "Welcome to my personal blog where I share my thoughts and experiences in software development and technology."
   show_social_media_icons: true
   avatar:
-    avatar_image: "images/avatar/avatar.png"
+    avatar_image: "images/avatar/avatar.jpg"
     avatar_image_height: "200px"
     avatar_image_width: "200px"
   buttons: 
