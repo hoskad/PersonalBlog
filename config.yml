@@ -65,7 +65,7 @@ params:
     logo: Inter
 
   logo:
-    logo_text: "Adrian Hoskins Blog"
+    logo_text: ""
     logo_image_desktop: images/logo/logo.svg
     logo_image_mobile: images/logo/logo-mobile.svg
     logo_image_desktop_invert: images/logo/logo-invert.svg # used on transparent header and when in dark mode. Normally a white version of the logo.
@@ -76,8 +76,8 @@ params:
     logo_image_mobile_width: "32px"
     show_logo_image_on_mobile: true
     show_logo_image_on_desktop: true
-    show_logo_text_on_mobile: true
-    show_logo_text_on_desktop: true
+    show_logo_text_on_mobile: false
+    show_logo_text_on_desktop: false
     
   header: 
     fixed: false
