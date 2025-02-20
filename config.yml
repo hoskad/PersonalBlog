@@ -16,21 +16,21 @@ defaultContentLanguageInSubdir: false
 params:
   colors:
   # light
-    base_bg: '#E8EAD7'      # Light olive background
-    base_bg_2: '#E2E4D1'    # Slightly darker light olive
-    base_bg_3: '#DDE0CC'    # Even slightly darker light olive
+    base_bg: '#D8DBC7'      # Light military green background
+    base_bg_2: '#C5C8B4'    # Slightly darker light military green
+    base_bg_3: '#B2B5A1'    # Even slightly darker light military green
     base_text: '#2f2e2a'    # Keep original dark text
     base_text_2: '#535247'  # Keep original secondary text
     base_text_3: '#848484'  # Keep original tertiary text
-    primary_bg: '#46e385'   # Keep original primary colors
-    primary_bg_2: '#55f884'
-    primary_bg_3: '#46e385'
-    primary_text: '#114c29'
+    primary_bg: '#4B5320'   # Military green for primary elements
+    primary_bg_2: '#5A6427' # Slightly lighter military green
+    primary_bg_3: '#4B5320' # Military green
+    primary_text: '#ffffff' # White text for better contrast on military green
     primary_text_2: '#f9f8ef'
     logo_text: '#202020'
     header_text: '#202020'
-    hero_gradient: "#46e385"
-    hero_gradient_2: "#46e385"
+    hero_gradient: "#4B5320"   # Military green
+    hero_gradient_2: "#5A6427" # Slightly lighter military green
     
     # dark
     base_bg_dark: '#0b0b0b'
