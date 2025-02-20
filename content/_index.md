@@ -8,7 +8,7 @@ meta:
 lead:
   enabled: true
   heading: "Hi, I'm Adrian Hoskins, a Software Engineer who is transitioning to the field of AI Engineering"
-  description: "Currently building [Paws Abroad](https://www.pawsabroad.ai). This site serves as a place for me to learn in public, where I publish book notes, long-form articles and any insights picked up along the way."
+  description: "Currently building <a href='https://www.pawsabroad.ai'>Paws Abroad</a>. This site serves as a place for me to learn in public, where I publish book notes, long-form articles and any insights picked up along the way."
   show_social_media_icons: true
   avatar:
     avatar_image: "images/avatar/avatar.jpg"
