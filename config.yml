@@ -1,5 +1,5 @@
-baseURL: "https://hugo-lever.netlify.app/"
-title: Hugo Lever
+baseURL: "https://personal-blog-hoskad.vercel.app/"
+title: Adrian Hoskins Blog
 
 pagination:
   pagerSize: 3
@@ -10,8 +10,14 @@ pygmentsCodefencesGuessSyntax: true
 pygmentsUseClasses: true
 metaDataFormat: yaml
 languageCode: "en-us"
-defaultContentLanguage: en
+defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: false
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: Adrian Hoskins Blog
 
 params:
   colors:
@@ -59,7 +65,7 @@ params:
     logo: Inter
 
   logo:
-    logo_text: "Hugo Lever"
+    logo_text: "Adrian Hoskins Blog"
     logo_image_desktop: images/logo/logo.svg
     logo_image_mobile: images/logo/logo-mobile.svg
     logo_image_desktop_invert: images/logo/logo-invert.svg # used on transparent header and when in dark mode. Normally a white version of the logo.
@@ -112,24 +118,24 @@ params:
     show_social_media_in_mobile_menu: true
 
   footer:
-    enable_footer: false # show/hide the entire footer
-    footer_title: "Hugo Lever"
-    footer_description: ""
+    enable_footer: true
+    footer_title: "Adrian Hoskins"
+    footer_description: "Personal Blog and Portfolio"
     enable_social_media_links: true
-    enable_contact_details: false
+    enable_contact_details: true
     enable_languages: false
-    enable_copyright: false
+    enable_copyright: true
     enable_menu_footer_primary: true
     enable_menu_footer_secondary: false
     enable_menu_footer_tertiary: false
-    footer_primary_menu_title: "Product"
-    footer_secondary_menu_title: "Menu 2"
-    footer_tertiary_menu_title: "Menu 3"
+    footer_primary_menu_title: "Menu"
+    footer_secondary_menu_title: ""
+    footer_tertiary_menu_title: ""
 
   bottom:
-    enabled: false # show/hide the entire bottom
+    enabled: true
     enable_bottom_menu: true
-    copyright_text: "© 2023 Zerostatic Themes"
+    copyright_text: " 2025 Adrian Hoskins"
     show_rss_icon: true
 
 menu:
@@ -150,17 +156,11 @@ menu:
     - name: Privacy Policy
       pageRef: privacy
       weight: 3
-    - name: T&C
-      pageRef: terms
-      weight: 4
-    - name: Buy Theme
-      pageRef: https://www.zerostatic.io/theme/hugo-lever/
-      weight: 5
   bottom:
     - name: Privacy Policy
       pageRef: privacy
       weight: 1
-    - name: Terms and Conditions
+    - name: Terms
       pageRef: terms
       weight: 2
 
