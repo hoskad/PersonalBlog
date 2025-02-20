@@ -118,14 +118,14 @@ params:
     show_social_media_in_mobile_menu: true
 
   footer:
-    enable_footer: true
+    enable_footer: false
     footer_title: "Adrian Hoskins"
     footer_description: "Personal Blog and Portfolio"
-    enable_social_media_links: true
-    enable_contact_details: true
+    enable_social_media_links: false
+    enable_contact_details: false
     enable_languages: false
-    enable_copyright: true
-    enable_menu_footer_primary: true
+    enable_copyright: false
+    enable_menu_footer_primary: false
     enable_menu_footer_secondary: false
     enable_menu_footer_tertiary: false
     footer_primary_menu_title: "Menu"
@@ -133,10 +133,10 @@ params:
     footer_tertiary_menu_title: ""
 
   bottom:
-    enabled: true
-    enable_bottom_menu: true
+    enabled: false
+    enable_bottom_menu: false
     copyright_text: " 2025 Adrian Hoskins"
-    show_rss_icon: true
+    show_rss_icon: false
 
 menu:
   main:
