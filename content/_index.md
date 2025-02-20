@@ -12,8 +12,8 @@ lead:
   show_social_media_icons: true
   avatar:
     avatar_image: "images/avatar/avatar.jpg"
-    avatar_image_height: "200px"
-    avatar_image_width: "200px"
+    avatar_image_height: "120px"
+    avatar_image_width: "120px"
   buttons: 
     - button: 
       url: "/contact"

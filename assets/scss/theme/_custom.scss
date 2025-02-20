@@ -26,7 +26,11 @@
     align-items: center;
     .lead {
       .avatar {
-        max-width: 100%;
+        max-width: 120px;
+        width: 120px;
+        height: 120px;
+        object-fit: cover;
+        border-radius: 50%;
       }
     }
     .social {
