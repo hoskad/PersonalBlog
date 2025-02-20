@@ -1,4 +1,8 @@
-# Hugo Lever Theme
+# PersonalBlog
+
+A personal blog built with Hugo Lever Theme
+
+## About the Theme
 
 Hugo Lever is a premium bio/personal/resume/freelancer theme
 
